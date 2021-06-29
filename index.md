@@ -7,6 +7,7 @@ Stats and Data Science student at UCSB
 
 ### About me
 
+
 I am currently studying Statistics and Data Science at UCSB. My hobbies include coding, working out, and rock climbing. Over quaratine I also learned how to play the guitar. 
 
 
