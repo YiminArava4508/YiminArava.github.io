@@ -6,7 +6,7 @@ Stats and Data Science student at UCSB
 - [GitHub](https://github.com/YiminArava4508)
 
 ### About me
-
+![Me](Images/Me.JPG)
 
 I am currently studying Statistics and Data Science at UCSB. My hobbies include coding, working out, and rock climbing. Over quaratine I also learned how to play the guitar. 
 
