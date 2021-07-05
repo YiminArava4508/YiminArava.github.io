@@ -18,8 +18,6 @@ jobs:
     - uses: actions/upload-artifact@v2.2.4
       with:
         name: my-artifact
-<<<<<<< Updated upstream
-        path: path/to/artifact/world.txt
-=======
-        path: path/to/artifact/
->>>>>>> Stashed changes
+        path: ./
+
+
