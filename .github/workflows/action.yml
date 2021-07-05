@@ -11,11 +11,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - run: mkdir -p path/to/artifact
-
     - uses: actions/upload-artifact@v2.2.4
       with:
         name: My_Artifact
-        path: 
+        path: ./
 
 
