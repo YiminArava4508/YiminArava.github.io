@@ -1,7 +1,7 @@
 name: Upload an Artifact
 on:
   push:
-    branches: [ main ]
+    branches: [ gh-pages ]
 
 jobs:
   spelling:
