@@ -1,5 +1,2 @@
-# My GitHub pages site
+#Welcome to my GitHub pages site
 
-Testing spellcheck action
-
-This is a sentence
