@@ -9,7 +9,7 @@ on:
     - '**.html'
     - '**README.md'
 jobs:
-  Checking_spelling:
+  Checking_Spelling:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
