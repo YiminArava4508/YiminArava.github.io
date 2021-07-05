@@ -7,7 +7,7 @@ on:
     - '**.vue'
     - '**.txt'
     - '**.html'
-    - 'README.md'
+    - '**README.md'
 jobs:
   spelling:
     runs-on: ubuntu-latest
